@@ -16,3 +16,17 @@
 > Python, Pygame, Github
 
 ---
+
+## **결과물**
+
+### **게임 화면**
+
+<img src = "https://user-images.githubusercontent.com/41173881/102518371-8bf0f180-40d4-11eb-84bd-20f2eabed6c5.PNG" width="500px">
+
+### **클리어**
+
+<img src = "https://user-images.githubusercontent.com/41173881/102518443-a4610c00-40d4-11eb-9924-a32a4bd0d2a3.PNG" width="500px">
+
+### **사망**
+
+<img src = "https://user-images.githubusercontent.com/41173881/102518516-bd69bd00-40d4-11eb-9cbb-d020a6efe183.PNG" width="500px">
